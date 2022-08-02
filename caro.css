@@ -14,6 +14,7 @@ body{
     background-image: url("250145.webp");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment:scroll;
     font-size: larger;
 }
 .container{
